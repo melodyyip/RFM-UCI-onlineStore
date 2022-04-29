@@ -111,5 +111,5 @@ The x-axis is the value of the k, and the y-axis is the SSE value of the data. W
 
 ### Interpret the result
 
-![alt text](https://miro.medium.com/max/700/1*8lbXMy6fpCL5mS1_xqmD8Q.png)
+![alt text](https://miro.medium.com/max/1400/1*R_nWZ3CLaZ_Ap8vPBBI1ig.png)
 
