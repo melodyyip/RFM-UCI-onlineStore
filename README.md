@@ -107,7 +107,7 @@ The x-axis is the value of the k, and the y-axis is the SSE value of the data. W
 
 ![alt text](https://miro.medium.com/max/582/1*qRuoB2-3xusETy0wlOMgVg.png)
 
-### Check the full project here [<img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" alt="View in Medium" height="20" width="70" />](https://medium.com/@melodyyip515_/rfm-customer-segmentation-using-python-1a1865c6e7cb)  [<img src="https://img.shields.io/badge/Github Blog-%23181717.svg?&style=flat&logo=github&logoColor=white" alt="Github profile link button" height="20" width="90" alt="Github Blog Button"/>](https://melodyyip.github.io/RFM_UCLonlineStore/) 
+### Check the full project here [<img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" alt="View in Medium" height="20" width="70" />](https://medium.com/@melodyyip515_/rfm-customer-segmentation-using-python-1a1865c6e7cb)  [<img src="https://img.shields.io/badge/Github Blog-%23181717.svg?&style=flat&logo=github&logoColor=white" alt="Github profile link button" height="20" width="90" alt="Github Blog Button"/>](https://melodyyip.github.io/RFM-UCI-onlineStore/) 
 
 ### Interpret the result
 
